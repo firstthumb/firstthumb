@@ -1,16 +1,16 @@
-### Hi there 👋
+### 👋, I'm Erol
+#### Software Developer
 
-<!--
-**firstthumb/firstthumb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-   💻 I am working as **Backend Developer**
+-   🧠 Interested in everything running on **Cloud** and **Mobile**
+-   🌱 Currently learning **Golang**, **AWS CDK**, **React Native** and **Flutter**
+-   💬 I’m looking to collaborate on **Open Source** projects
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-ErolKocaman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ekocaman/)](https://www.linkedin.com/in/ekocaman/)
+[![Website Badge](https://img.shields.io/badge/-ekocaman.net-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://www.ekocaman.net)](https://www.ekocaman.net)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=firstthumb&show_icons=true&theme=bear" width = 500>
+  </br>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=firstthumb&theme=dark&hide_border=true" width = 500>
+</p>
